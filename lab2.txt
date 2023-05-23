@@ -1,0 +1,24 @@
+Use Case 1: New User Registration
+Actors: New User, System
+
+Description:
+
+The user opens the flower-selling website.
+The user clicks on the "Registration" link on the homepage.
+The system displays a registration form where the user needs to enter their details such as name, email, and password.
+The user enters the required information and clicks the "Register" button.
+The system verifies the entered data, creates a new user account, and sends a registration confirmation to the user's email.
+The website redirects the user to the homepage where they can log in with their credentials.
+Use Case 2: Flower Order with Delivery
+Actors: Registered User, System
+
+Description:
+
+The registered user opens the flower-selling website and logs into the system.
+The user browses the catalog of available flowers and selects the desired types and quantity.
+The user adds the selected flowers to the cart.
+After choosing the flowers, the user proceeds to checkout.
+The user provides the delivery address, selects the date and time of delivery, and enters any additional requirements.
+The user confirms the order and selects a payment method.
+The system accepts the order, generates a confirmation, and sends it to the user's email.
+The order is forwarded to the delivery department for processing and fulfillment.
