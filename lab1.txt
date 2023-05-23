@@ -1,0 +1,16 @@
+User Story 1: Online Flower Ordering
+As a customer, I want to be able to order flowers online to quickly and conveniently purchase them.
+Acceptance Criteria:
+
+I am presented with a variety of flower options to choose from.
+I can select the desired quantity of flowers and additional accessories.
+I can provide the exact delivery address and date.
+After placing the order, I receive a confirmation email.
+User Story 2: Flower Viewing and Rating
+As a customer, I want to have the ability to browse flowers and learn about their quality and popularity among other customers.
+Acceptance Criteria:
+
+The website has a section with a catalog of flowers that displays various types and varieties of flowers.
+I can view detailed information about each type of flower, including description, photos, and price.
+The website allows me to read reviews and ratings of flowers left by previous customers.
+I can leave my own review of the purchased flowers.
